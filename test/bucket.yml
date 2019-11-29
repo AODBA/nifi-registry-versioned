@@ -1,5 +1,5 @@
 flows:
-  d40201ec-0718-4d70-907f-64b436cde213: {ver: 1, file: flow_1.snapshot, comments: '1',
-    author: anonymous, created: 1574996935440, flowName: flow 1, flowDesc: 's[dokspf'}
+  d40201ec-0718-4d70-907f-64b436cde213: {ver: 2, file: flow_1.snapshot, comments: comments,
+    author: anonymous, created: 1574997698232, flowName: flow 1, flowDesc: 's[dokspf'}
 layoutVer: 1
 bucketId: 7831c565-801c-4d3b-ae79-3ba848e6b991
